@@ -1,4 +1,4 @@
-package com.zerone;
+package com.zerone.wgp;
 
 public class Main {
 
